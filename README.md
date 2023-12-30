@@ -1,4 +1,4 @@
-# 启动项目
+# Vue Day1启动项目
 
 1. npm install
 2. npm run dev
